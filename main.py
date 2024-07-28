@@ -1,7 +1,7 @@
 import tkinter as tk
 
 class Calculator:
-    def __init__(self, root)
+    def __init__(self, root):
         self.root = root
         self.root.title("Calculator")
         self.root.geometry("375x420")
