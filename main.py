@@ -1,4 +1,4 @@
-import tkinter as tk
+import tkinter as t
 
 class Calculator:
     def __init__(self, root):
